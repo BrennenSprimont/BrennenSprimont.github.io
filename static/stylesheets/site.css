@@ -1,0 +1,129 @@
+
+
+body {
+    
+}
+
+.square-button {
+    
+}
+
+.contact-information {
+    padding-top:25px;
+}
+
+.contact-details {
+    padding-left: 15px;
+}
+
+.employment {
+    padding-top:20px;
+}
+
+.item {
+    border-bottom:1px solid rgba(0,0,0,.125);
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.job {
+    margin-top:10px;
+    margin-bottom:10px;
+    border:0px;
+}
+
+.job-responsibilities {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border: 0px;
+}
+
+
+.job-responsibilities > .card-header {
+    background-color: inherit;
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+
+.responsibility {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.responsibility > a {
+    color: black;
+}
+.responsibility > a:hover {
+    text-decoration: none;
+}
+
+.responsibility-description {
+    padding-left:10px;
+}
+
+
+.small-list-item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #333333;
+}
+
+.toggle-card {
+    background-color: #ffc266;
+}
+
+.toggle-card:hover {
+    cursor: pointer;
+}
+
+.toggle-card > .card-body {
+    padding-top:5px;
+    padding-bottom:5px;
+    text-align: center;
+}
+
+.responsibility-collapse .small-list-item:first-of-type {
+    padding-top:15px;
+}
+
+.school {
+    border:0px;
+}
+
+.coursework {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.coursework > a {
+    color: black;
+}
+.coursework > a:hover {
+    text-decoration: none;
+}
+
+.coursework-description {
+    padding-left:10px;
+}
+
+.coursework-collapse .small-list-item:first-of-type {
+    padding-top:15px;
+}
+
+.school-coursework {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border: 0px;
+}
+
+.school-coursework > .card-header {
+    background-color: inherit;
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
